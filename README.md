@@ -7,17 +7,15 @@ KEY FEATURES
 - Text Processing:
   • Email cleaning/normalization
   • Tokenization & stopword removal
-  • TF-IDF vectorization
 - ML Model:
   • Multinomial Naïve Bayes
-  • Trained on 5,572 emails
 - Web Interface:
   • Streamlit app
   • Real-time predictions
 
 DATASET
 spam.csv containing:
-• Spam: Ads, phishing emails
+• Spam: Ads,phishing emails
 • Ham: Legitimate emails
 
 HOW TO USE
@@ -27,8 +25,6 @@ HOW TO USE
 
 PERFORMANCE
 • Accuracy: 98.38%
-• Precision: 94.12%
-• Recall: 89.47%
 
 Check out the live APP: 
 https://email-classification-3p6vmxbnss9pqzivrd7kq6.streamlit.app/
