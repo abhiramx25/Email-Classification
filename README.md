@@ -1,47 +1,34 @@
-Email Spam Classification System
-Overview
+Email Spam Classifier
+
+OVERVIEW
 A machine learning system that automatically classifies emails as spam or legitimate (ham) using Natural Language Processing techniques and the Naïve Bayes algorithm. The model achieves 98.38% accuracy and is deployed as an interactive web application.
 
-Key Features
-Text Processing Pipeline:
+KEY FEATURES
+- Text Processing:
+  • Email cleaning/normalization
+  • Tokenization & stopword removal
+  • TF-IDF vectorization
+- ML Model:
+  • Multinomial Naïve Bayes
+  • Trained on 5,572 emails
+- Web Interface:
+  • Streamlit app
+  • Real-time predictions
 
-Email cleaning and normalization
-
-Tokenization and stopword removal
-
-TF-IDF vectorization
-
-Machine Learning Model:
-
-Multinomial Naïve Bayes classifier
-
-Trained on 5,572 labeled emails
-
-Web Interface:
-
-Simple, user-friendly Streamlit app
-
-Real-time predictions with confidence scores
-
-Dataset
+DATASET
 spam.csv containing:
+• Spam: Ads, phishing emails
+• Ham: Legitimate emails
 
-Spam: Unwanted emails (advertisements, phishing attempts)
+HOW TO USE
+1. Paste email text
+2. Click "Predict"
+3. Get spam/ham result
 
-Ham: Legitimate personal/business emails
+PERFORMANCE
+• Accuracy: 98.38%
+• Precision: 94.12%
+• Recall: 89.47%
 
-Web App
-Access Live Application
-
-How to Use
-Paste email text into the input box
-
-Click "Predict"
-
-View instant Spam/Ham classification
-
-Performance
-Accuracy: 98.38%
-
-
-
+Check out the live APP: 
+https://email-classification-3p6vmxbnss9pqzivrd7kq6.streamlit.app/
