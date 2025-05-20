@@ -20,7 +20,9 @@ Simple, user-friendly Streamlit app
 Real-time predictions
 Confidence score display
 
-Web app link :  https://email-classification-3p6vmxbnss9pqzivrd7kq6.streamlit.app/
+Web app link -
+
+https://email-classification-3p6vmxbnss9pqzivrd7kq6.streamlit.app/
 
 
 How to Use:
