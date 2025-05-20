@@ -16,9 +16,10 @@ KEY FEATURES
 
 DATASET -
 
-spam.csv containing:
+spam.csv containing : 
 
 • Spam: Ads,phishing emails
+
 • Ham: Legitimate emails
 
 HOW TO USE
