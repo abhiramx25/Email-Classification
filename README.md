@@ -14,8 +14,10 @@ KEY FEATURES
   • Streamlit app
   • Real-time predictions
 
-DATASET
+DATASET -
+
 spam.csv containing:
+
 • Spam: Ads,phishing emails
 • Ham: Legitimate emails
 
