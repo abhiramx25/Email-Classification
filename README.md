@@ -1,6 +1,6 @@
 Email Spam Classifier
 
-OVERVIEW : 
+OVERVIEW 
 
 A machine learning system that automatically classifies emails as spam or legitimate (ham) using Natural Language Processing techniques and the Naïve Bayes algorithm. The model achieves 98.38% accuracy and is deployed as an interactive web application.
 
